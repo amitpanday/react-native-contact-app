@@ -30,7 +30,7 @@ The screen will reload if you make edits.
 You will also see any errors in the device screen.
 
 ```
-nmp test
+npm test
 ```
 Launches the test runner in the interactive watch mode.
 
@@ -53,7 +53,7 @@ See the section about deployment for [more information.](https://reactnative.dev
 
 You can learn more in the [Ract-Native CLI.](https://reactnative.dev/docs/environment-setup)
 
-To learn React, check out the [React-Native documentation.](https://reactnative.dev/)
+To learn React Native, check out the [React-Native documentation.](https://reactnative.dev/)
 
 
 ## Screen Shot
